@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\manager",
+    "\\manager\\manager",
+    "\\reader",
+    "\\reader\\reader",
+    "\\writer",
+    "\\writer\\writer"
+  ],
+  "SelectedNode": "\\writer\\writer\\writer.cpp",
+  "PreviewInSolutionExplorer": false
+}

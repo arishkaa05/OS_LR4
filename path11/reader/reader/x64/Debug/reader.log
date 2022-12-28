@@ -1,0 +1,3 @@
+﻿  reader.cpp
+D:\OS_LR4\path 1\reader\reader\reader.cpp(26,24): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+  reader.vcxproj -> D:\OS_LR4\path 1\reader\x64\Debug\reader.exe
