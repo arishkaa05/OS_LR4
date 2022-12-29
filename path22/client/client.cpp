@@ -31,8 +31,9 @@ int main()
     cout << "Data from server\n";
     while (true) {
         ReadFileEx(hNamedPipe, c, 512, &lpOverlapped, lpCompletionRoutine);
-        cout << c << endl << endl;
         SleepEx(INFINITE, TRUE);
+        cout << c << endl << endl;
+        
 
     }
 
